@@ -1,0 +1,5 @@
+====================
+collective.myaddon
+====================
+
+User documentation
